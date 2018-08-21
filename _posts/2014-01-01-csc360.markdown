@@ -1,0 +1,6 @@
+---
+layout: default
+link: http://gdancik.github.io/CSC-360/ 
+img: csc360.png
+alt: image-alt
+---
