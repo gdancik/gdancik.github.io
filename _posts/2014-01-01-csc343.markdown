@@ -1,6 +1,6 @@
 ---
 layout: default
-link: http://gdancik.github.io/CSC-343/ 
-img: csc343.png
+link: http://gdancik.github.io/CSC-450/ 
+img: csc450.png
 alt: image-alt
 ---
