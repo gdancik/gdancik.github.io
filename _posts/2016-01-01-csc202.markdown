@@ -2,5 +2,5 @@
 layout: default
 link: http://gdancik.github.io/CSC-180/
 img: csc180.png
-alt: image-alt
+alt: CSC 180
 ---
