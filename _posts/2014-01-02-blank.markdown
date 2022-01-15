@@ -1,6 +1,0 @@
----
-layout: default
-link: http://gdancik.github.io/CSC-315/ 
-img: csc315.png
-alt: CSC 315 
----
