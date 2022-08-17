@@ -1,0 +1,6 @@
+---
+layout: default
+link: /
+img: blank.png 
+alt: blank 
+---
