@@ -1,9 +1,9 @@
 ---
 layout: default
 link: /
-img: blank.png 
-alt: blank 
-#link: http://gdancik.github.io/CSC-315/
+img: lac200.png 
+alt: LAC 200 
+link: http://gdancik.github.io/LAC-200/
 #img: csc315.png 
 alt: CSC 315 
 ---
